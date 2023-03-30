@@ -29,11 +29,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Zephyr RTOS commit history visualized using gource.io](https://www.youtube.com/watch?v=RssqANuHp9c)
+- [Before vs. After 😍 #pottery #ceramics #potteryporn #wheelthrowing  #stoneware #clayart](https://www.youtube.com/watch?v=_x2FH4Kft-8)
+- [Making colored clay using cobalt carbonate. #pottery #diy #ceramics #potteryporn #handmade #clayart](https://www.youtube.com/watch?v=TMxmsIstzk8)
+- [#potteryporn](https://www.youtube.com/watch?v=8FuWdbnTUzc)
 - [Using Github Codespaces for Embedded Development](https://www.youtube.com/watch?v=-enIM4x-KPA)
-- [Using Blender to design a 3D printed enclosure for my artificial nose project](https://www.youtube.com/watch?v=k5waMykQjak)
-- [IoT Live Coding: Building an End-To-End Asset Tracking Solution From Scratch](https://www.youtube.com/watch?v=3A6Lhakfyes)
-- [Microsoft Build 2020 - Teaser for IoT live coding session on May 20!](https://www.youtube.com/watch?v=aY9I0Xc0sNA)
-- [How to run TensorFlow Lite on the MXChip AZ3166 IoT devkit](https://www.youtube.com/watch?v=B_DcpRzkAiM)
 <!-- YOUTUBE:END -->
 
 ---
