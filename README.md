@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Zephyr Weekly Updates](https://blog.benjamin-cabe.com/2023/03/23/introducing-the-zephyr-weekly-updates)
+- [[VIDEO] Embedded World 2023: Zephyr OS – The Open Source RTOS](https://blog.benjamin-cabe.com/2023/03/23/video-embedded-world-2023-zephyr-os-the-open-source-rtos)
+- [3 Free Simulation Tools to Work Around the Global Chip Shortage](https://blog.benjamin-cabe.com/2022/03/17/3-free-simulation-tools-to-work-around-the-global-chip-shortage)
+- [How a 13-year-old used my artificial nose to diagnose pneumonia](https://blog.benjamin-cabe.com/2022/02/16/how-a-13-year-old-used-my-artificial-nose-to-diagnose-pneumonia)
 - [5 Reasons Why I Dread Writing Embedded GUIs](https://blog.benjamin-cabe.com/2021/10/21/5-reasons-why-i-dread-writing-embedded-guis)
-- [How I Built a Connected Artificial Nose &lpar;and How You Can Too!&rpar;](https://blog.benjamin-cabe.com/2021/08/03/how-i-built-a-connected-artificial-nose)
-- [Deploying a LoRaWAN network server on Azure](https://blog.benjamin-cabe.com/2020/12/01/deploying-a-lorawan-network-server-on-azure)
-- [Using Github Codespaces for Embedded Development](https://blog.benjamin-cabe.com/2020/09/02/using-github-codespaces-for-embedded-development)
-- [Connecting the Wio Terminal to Azure IoT](https://blog.benjamin-cabe.com/2020/08/05/connecting-the-wio-terminal-to-azure-iot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
