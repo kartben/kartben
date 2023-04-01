@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Gotta love ’em snippets](https://blog.benjamin-cabe.com/2023/03/31/zephyr-weekly-update-gotta-love-em-snippets)
 - [Introducing the Zephyr Weekly Updates](https://blog.benjamin-cabe.com/2023/03/23/introducing-the-zephyr-weekly-updates)
 - [[VIDEO] Embedded World 2023: Zephyr OS – The Open Source RTOS](https://blog.benjamin-cabe.com/2023/03/23/video-embedded-world-2023-zephyr-os-the-open-source-rtos)
 - [3 Free Simulation Tools to Work Around the Global Chip Shortage](https://blog.benjamin-cabe.com/2022/03/17/3-free-simulation-tools-to-work-around-the-global-chip-shortage)
 - [How a 13-year-old used my artificial nose to diagnose pneumonia](https://blog.benjamin-cabe.com/2022/02/16/how-a-13-year-old-used-my-artificial-nose-to-diagnose-pneumonia)
-- [5 Reasons Why I Dread Writing Embedded GUIs](https://blog.benjamin-cabe.com/2021/10/21/5-reasons-why-i-dread-writing-embedded-guis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
