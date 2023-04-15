@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – NVMe support, and more!](https://blog.benjamin-cabe.com/2023/04/14/zephyr-weekly-update-nvme-support-and-more)
 - [Zephyr Weekly Update – Spring boards!](https://blog.benjamin-cabe.com/2023/04/07/zephyr-weekly-update-spring-boards)
 - [Zephyr Weekly Update – Gotta love ’em snippets](https://blog.benjamin-cabe.com/2023/03/31/zephyr-weekly-update-gotta-love-em-snippets)
 - [Introducing the Zephyr Weekly Updates](https://blog.benjamin-cabe.com/2023/03/23/introducing-the-zephyr-weekly-updates)
 - [[VIDEO] Embedded World 2023: Zephyr OS – The Open Source RTOS](https://blog.benjamin-cabe.com/2023/03/23/video-embedded-world-2023-zephyr-os-the-open-source-rtos)
-- [3 Free Simulation Tools to Work Around the Global Chip Shortage](https://blog.benjamin-cabe.com/2022/03/17/3-free-simulation-tools-to-work-around-the-global-chip-shortage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
