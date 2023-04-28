@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – I won’t retain you too long!](https://blog.benjamin-cabe.com/2023/04/28/zephyr-weekly-update-i-wont-retain-you-too-long)
 - [Zephyr Weekly Update – Welcoming new contributors!](https://blog.benjamin-cabe.com/2023/04/21/zephyr-weekly-update-welcoming-new-contributors)
 - [Zephyr Weekly Update – NVMe support, and more!](https://blog.benjamin-cabe.com/2023/04/14/zephyr-weekly-update-nvme-support-and-more)
 - [Zephyr Weekly Update – Spring boards!](https://blog.benjamin-cabe.com/2023/04/07/zephyr-weekly-update-spring-boards)
 - [Zephyr Weekly Update – Gotta love ’em snippets](https://blog.benjamin-cabe.com/2023/03/31/zephyr-weekly-update-gotta-love-em-snippets)
-- [Introducing the Zephyr Weekly Updates](https://blog.benjamin-cabe.com/2023/03/23/introducing-the-zephyr-weekly-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
