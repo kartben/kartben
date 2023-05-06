@@ -42,7 +42,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Zephyr Weekly Update – Yes we CAN](https://blog.benjamin-cabe.com/2023/05/05/zephyr-weekly-update-yes-we-can)
 - [Getting Started with Zephyr RTOS on the MXChip IoT DevKit](https://blog.benjamin-cabe.com/2023/05/04/getting-started-with-zephyr-rtos-on-the-mxchip-iot-devkit)
-- [Zephyr Weekly Update – I won’t retain you too long!](https://blog.benjamin-cabe.com/2023/04/28/zephyr-weekly-update-i-wont-retain-you-too-long-2)
+- [Zephyr Weekly Update – I won’t retain you too long!](https://blog.benjamin-cabe.com/2023/04/28/zephyr-weekly-update-i-wont-retain-you-too-long)
 - [Zephyr Weekly Update – Welcoming new contributors!](https://blog.benjamin-cabe.com/2023/04/21/zephyr-weekly-update-welcoming-new-contributors)
 - [Zephyr Weekly Update – NVMe support, and more!](https://blog.benjamin-cabe.com/2023/04/14/zephyr-weekly-update-nvme-support-and-more)
 <!-- BLOG-POST-LIST:END -->
