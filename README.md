@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Call me maybe 🤙](https://blog.benjamin-cabe.com/2023/05/26/zephyr-weekly-update-call-me-maybe)
 - [Zephyr Weekly Update – Zephyr 3.4 less than a month away!](https://blog.benjamin-cabe.com/2023/05/19/zephyr-weekly-update-one-month-until-3-4)
 - [Zephyr Weekly Update – May 12, 2023](https://blog.benjamin-cabe.com/2023/05/12/zephyr-weekly-update-may-12-2023)
 - [Zephyr Weekly Update – Yes we CAN](https://blog.benjamin-cabe.com/2023/05/05/zephyr-weekly-update-yes-we-can)
 - [Getting Started with Zephyr RTOS on the MXChip IoT DevKit](https://blog.benjamin-cabe.com/2023/05/04/getting-started-with-zephyr-rtos-on-the-mxchip-iot-devkit)
-- [Zephyr Weekly Update – I won’t retain you too long!](https://blog.benjamin-cabe.com/2023/04/28/zephyr-weekly-update-i-wont-retain-you-too-long)
 <!-- BLOG-POST-LIST:END -->
 
 ---
