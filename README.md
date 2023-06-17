@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Zephyr 3.4 is out!](https://blog.benjamin-cabe.com/2023/06/16/zephyr-weekly-update-zephyr-3-4-is-out)
 - [Zephyr Weekly Update – June 9](https://blog.benjamin-cabe.com/2023/06/09/zephyr-weekly-update-june-9)
 - [Zephyr Weekly Update – Zephyr 2.7.5 LTS is out](https://blog.benjamin-cabe.com/2023/06/02/zephyr-weekly-update-zephyr-2-7-5-lts-is-out)
 - [Zephyr Weekly Update – Call me maybe 🤙](https://blog.benjamin-cabe.com/2023/05/26/zephyr-weekly-update-call-me-maybe)
 - [Zephyr Weekly Update – Zephyr 3.4 less than a month away!](https://blog.benjamin-cabe.com/2023/05/19/zephyr-weekly-update-one-month-until-3-4)
-- [Zephyr Weekly Update – May 12, 2023](https://blog.benjamin-cabe.com/2023/05/12/zephyr-weekly-update-may-12-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
