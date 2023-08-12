@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Summer catch-up](https://blog.benjamin-cabe.com/2023/08/11/zephyr-weekly-update-summer-catch-up)
 - [Zephyr Weekly Update – Introducing ACPI support](https://blog.benjamin-cabe.com/2023/07/07/zephyr-weekly-update-introducing-acpi-support)
 - [Zephyr Weekly Update – Ahoj z Prahy!](https://blog.benjamin-cabe.com/2023/06/30/zephyr-weekly-update-ahoj-z-prahy)
 - [Zephyr Weekly Update – I’m sensing some improvements!](https://blog.benjamin-cabe.com/2023/06/23/zephyr-weekly-update-im-sensing-some-improvements)
 - [Zephyr Weekly Update – Zephyr 3.4 is out!](https://blog.benjamin-cabe.com/2023/06/16/zephyr-weekly-update-zephyr-3-4-is-out)
-- [Zephyr Weekly Update – June 9](https://blog.benjamin-cabe.com/2023/06/09/zephyr-weekly-update-june-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
