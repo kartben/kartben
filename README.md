@@ -29,11 +29,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Enabling CodeChecker for your Zephyr RTOS Project](https://www.youtube.com/watch?v=OCq9wKoezVk)
 - [Getting started with Zephyr RTOS on the MXChip IoT DevKit](https://www.youtube.com/watch?v=GiDsMlRipJY)
 - [Zephyr RTOS commit history visualized using gource.io](https://www.youtube.com/watch?v=RssqANuHp9c)
 - [Before vs. After 😍 #pottery #ceramics #potteryporn #wheelthrowing  #stoneware #clayart](https://www.youtube.com/watch?v=_x2FH4Kft-8)
 - [Making colored clay using cobalt carbonate. #pottery #diy #ceramics #potteryporn #handmade #clayart](https://www.youtube.com/watch?v=TMxmsIstzk8)
-- [#potteryporn](https://www.youtube.com/watch?v=8FuWdbnTUzc)
 <!-- YOUTUBE:END -->
 
 ---
