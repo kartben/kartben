@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enabling CodeChecker for your Zephyr RTOS Project](https://blog.benjamin-cabe.com/2023/08/23/enabling-codechecker-for-your-zephyr-rtos-project)
 - [Zephyr Weekly Update – CodeChecker support](https://blog.benjamin-cabe.com/2023/08/18/zephyr-weekly-update-codechecker-support)
 - [Zephyr Weekly Update – Summer catch-up](https://blog.benjamin-cabe.com/2023/08/11/zephyr-weekly-update-summer-catch-up)
 - [Zephyr Weekly Update – Introducing ACPI support](https://blog.benjamin-cabe.com/2023/07/07/zephyr-weekly-update-introducing-acpi-support)
 - [Zephyr Weekly Update – Ahoj z Prahy!](https://blog.benjamin-cabe.com/2023/06/30/zephyr-weekly-update-ahoj-z-prahy)
-- [Zephyr Weekly Update – I’m sensing some improvements!](https://blog.benjamin-cabe.com/2023/06/23/zephyr-weekly-update-im-sensing-some-improvements)
 <!-- BLOG-POST-LIST:END -->
 
 ---
