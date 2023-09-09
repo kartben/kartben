@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Charge me up!](https://blog.benjamin-cabe.com/2023/09/08/zephyr-weekly-update-charge-me-up)
 - [Zephyr Weekly Update – Introducing the new modem subsystem](https://blog.benjamin-cabe.com/2023/09/01/zephyr-weekly-update-introducing-the-new-modem-subsystem)
 - [Zephyr Weekly Update – Scan away with me](https://blog.benjamin-cabe.com/2023/08/25/zephyr-weekly-update-scan-away-with-me)
 - [Enabling CodeChecker for your Zephyr RTOS Project](https://blog.benjamin-cabe.com/2023/08/23/enabling-codechecker-for-your-zephyr-rtos-project)
 - [Zephyr Weekly Update – CodeChecker support](https://blog.benjamin-cabe.com/2023/08/18/zephyr-weekly-update-codechecker-support)
-- [Zephyr Weekly Update – Summer catch-up](https://blog.benjamin-cabe.com/2023/08/11/zephyr-weekly-update-summer-catch-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
