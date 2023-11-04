@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – New GNSS subsystem](https://blog.benjamin-cabe.com/2023/11/03/zephyr-weekly-update-gnss-support)
 - [Zephyr Weekly Update – Hello 3.5.99!](https://blog.benjamin-cabe.com/2023/10/27/zephyr-weekly-update-hello-3-5-99)
 - [Zephyr Weekly Update – Getting ready for Zephyr 3.5](https://blog.benjamin-cabe.com/2023/10/06/zephyr-weekly-update-getting-ready-for-zephyr-3-5)
 - [Zephyr Weekly Update – Participate in Zephyr Developer Survey 2023!](https://blog.benjamin-cabe.com/2023/09/22/zephyr-weekly-update-participate-in-zephyr-developer-survey-2023)
 - [Zephyr Weekly Update – Hello M5Stack Core2, Picolibc, et al.](https://blog.benjamin-cabe.com/2023/09/15/zephyr-weekly-update-hello-m5stack-core2-picolibc-et-al)
-- [Zephyr Weekly Update – Charge me up!](https://blog.benjamin-cabe.com/2023/09/08/zephyr-weekly-update-charge-me-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
