@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Emulated DMA controller](https://blog.benjamin-cabe.com/2023/12/08/zephyr-weekly-update-emulated-dma-controller)
 - [Zephyr Weekly Update – Multiplexing all the things!](https://blog.benjamin-cabe.com/2023/12/01/zephyr-weekly-update-multiplexing-all-the-things)
 - [Zephyr Weekly Update – Bringing userspace to Xtensa](https://blog.benjamin-cabe.com/2023/11/24/zephyr-weekly-update-bringing-userspace-to-xtensa)
 - [Zephyr Weekly Update – C11 threads, Enhanced logging, and more](https://blog.benjamin-cabe.com/2023/11/17/zephyr-weekly-update-c11-threads-enhanced-logging-and-more)
 - [Zephyr Weekly Update – New CoAP service](https://blog.benjamin-cabe.com/2023/11/10/zephyr-weekly-update-new-coap-service)
-- [Zephyr Weekly Update – New GNSS subsystem](https://blog.benjamin-cabe.com/2023/11/03/zephyr-weekly-update-gnss-support)
 <!-- BLOG-POST-LIST:END -->
 
 ---
