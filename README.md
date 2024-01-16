@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – zspdx is getting some love](https://blog.benjamin-cabe.com/2024/01/12/zephyr-weekly-update-zspdx-is-getting-some-love)
 - [Zephyr Weekly Update – Kicking off 2024!](https://blog.benjamin-cabe.com/2024/01/05/zephyr-weekly-update-kicking-off-2024)
 - [Zephyr Weekly Update – Fixing the search experience](https://blog.benjamin-cabe.com/2023/12/15/zephyr-weekly-update-fixing-the-search-experience)
 - [Zephyr Weekly Update – Emulated DMA controller](https://blog.benjamin-cabe.com/2023/12/08/zephyr-weekly-update-emulated-dma-controller)
 - [Zephyr Weekly Update – Multiplexing all the things!](https://blog.benjamin-cabe.com/2023/12/01/zephyr-weekly-update-multiplexing-all-the-things)
-- [Zephyr Weekly Update – Bringing userspace to Xtensa](https://blog.benjamin-cabe.com/2023/11/24/zephyr-weekly-update-bringing-userspace-to-xtensa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
