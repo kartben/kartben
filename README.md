@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Bring’em new boards and SoCs!](https://blog.benjamin-cabe.com/2024/03/15/zephyr-weekly-update-bringem-new-boards-and-socs)
 - [Zephyr Weekly Update – New Hardware Model](https://blog.benjamin-cabe.com/2024/03/08/zephyr-weekly-update-new-hardware-model)
 - [Zephyr Weekly Update – Zephyr 3.6.0 is a go, Hello 3.6.99!](https://blog.benjamin-cabe.com/2024/03/01/zephyr-weekly-update-zephyr-3-6-0-is-a-go-hello-3-6-99)
 - [Zephyr Weekly Update – 1 week left before feature freeze](https://blog.benjamin-cabe.com/2024/01/26/zephyr-weekly-update-1-week-left-before-feature-freeze)
 - [Zephyr Weekly Update – Trusted Firmware-M 2.0 integration](https://blog.benjamin-cabe.com/2024/01/19/zephyr-weekly-update-trusted-firmware-m-2-0-integration)
-- [Zephyr Weekly Update – zspdx is getting some love](https://blog.benjamin-cabe.com/2024/01/12/zephyr-weekly-update-zspdx-is-getting-some-love)
 <!-- BLOG-POST-LIST:END -->
 
 ---
