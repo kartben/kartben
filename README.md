@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – LLEXT extension development made easier](https://blog.benjamin-cabe.com/2024/05/17/zephyr-weekly-update-llext-extension-development-made-easier)
 - [Zephyr Weekly Update – Always a Zephyr meetup near you!](https://blog.benjamin-cabe.com/2024/05/10/zephyr-weekly-update-always-a-zephyr-meetup-near-you)
 - [Zephyr Weekly Update – HTTP Server FTW! 🥳](https://blog.benjamin-cabe.com/2024/05/03/zephyr-weekly-update-http-server-ftw)
 - [Zephyr Weekly Update – Device model becoming increasingly flexible](https://blog.benjamin-cabe.com/2024/04/29/zephyr-weekly-update-networking-goodness-2)
 - [Zephyr Weekly Update – Networking goodness](https://blog.benjamin-cabe.com/2024/04/05/zephyr-weekly-update-networking-goodness)
-- [Zephyr Weekly Update – Using CLion for Zephyr development](https://blog.benjamin-cabe.com/2024/03/22/zephyr-weekly-update-using-clion-for-zephyr-development)
 <!-- BLOG-POST-LIST:END -->
 
 ---
