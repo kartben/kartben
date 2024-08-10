@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Feeling a disturbance in the Force](https://blog.benjamin-cabe.com/2024/08/09/zephyr-weekly-update-feeling-a-disturbance-in-the-force)
 - [Zephyr Weekly Update – Rust coming to Zephyr?](https://blog.benjamin-cabe.com/2024/08/02/zephyr-weekly-update-rust-coming-to-zephyr)
 - [Zephyr Weekly Update – New SoC porting guide](https://blog.benjamin-cabe.com/2024/05/24/zephyr-weekly-update-new-soc-porting-guide)
 - [Zephyr Weekly Update – LLEXT extension development made easier](https://blog.benjamin-cabe.com/2024/05/17/zephyr-weekly-update-llext-extension-development-made-easier)
 - [Zephyr Weekly Update – Always a Zephyr meetup near you!](https://blog.benjamin-cabe.com/2024/05/10/zephyr-weekly-update-always-a-zephyr-meetup-near-you)
-- [Zephyr Weekly Update – HTTP Server FTW! 🥳](https://blog.benjamin-cabe.com/2024/05/03/zephyr-weekly-update-http-server-ftw)
 <!-- BLOG-POST-LIST:END -->
 
 ---
