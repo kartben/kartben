@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Apr. 11, 2025](https://blog.benjamin-cabe.com/2025/04/11/zephyr-weekly-update-apr-11-2025)
 - [Zephyr Weekly Update – Mar. 28, 2025](https://blog.benjamin-cabe.com/2025/03/28/zephyr-weekly-update-mar-28-2025)
 - [Zephyr Weekly Update – Jan. 24, 2025](https://blog.benjamin-cabe.com/2025/01/24/zephyr-weekly-update-jan-24-2025)
 - [2 boards you can finally use with Zephyr!](https://blog.benjamin-cabe.com/2025/01/14/2-boards-you-can-finally-use-with-zephyr)
 - [5 Tips to Make the Most of Zephyr Documentation](https://blog.benjamin-cabe.com/2024/10/25/5-tips-to-make-the-most-of-zephyr-documentation)
-- [Zephyr Weekly Update – Aug. 23, 2024](https://blog.benjamin-cabe.com/2024/08/23/zephyr-weekly-update-aug-23-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
