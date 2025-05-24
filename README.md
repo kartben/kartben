@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zephyr Weekly Update – Video Killed the Radio Star](https://blog.benjamin-cabe.com/2025/05/23/zephyr-weekly-update-video-killed-the-radio-star)
 - [Zephyr Weekly Update – Packet Filtering, UUIDs &amp; More](https://blog.benjamin-cabe.com/2025/04/18/zephyr-weekly-update-packet-filtering-uuids-more)
 - [Zephyr Weekly Update – Apr. 11, 2025](https://blog.benjamin-cabe.com/2025/04/11/zephyr-weekly-update-apr-11-2025)
 - [Zephyr Weekly Update – Mar. 28, 2025](https://blog.benjamin-cabe.com/2025/03/28/zephyr-weekly-update-mar-28-2025)
 - [Zephyr Weekly Update – Jan. 24, 2025](https://blog.benjamin-cabe.com/2025/01/24/zephyr-weekly-update-jan-24-2025)
-- [2 boards you can finally use with Zephyr!](https://blog.benjamin-cabe.com/2025/01/14/2-boards-you-can-finally-use-with-zephyr)
 <!-- BLOG-POST-LIST:END -->
 
 ---
