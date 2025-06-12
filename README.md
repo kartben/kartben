@@ -33,7 +33,7 @@
 - [Enabling CodeChecker for your Zephyr RTOS Project](https://www.youtube.com/watch?v=OCq9wKoezVk)
 - [Getting started with Zephyr RTOS on the MXChip IoT DevKit](https://www.youtube.com/watch?v=GiDsMlRipJY)
 - [Zephyr RTOS commit history visualized using gource.io](https://www.youtube.com/watch?v=RssqANuHp9c)
-- [Before vs. After 😍 #pottery #ceramics #potteryporn #wheelthrowing  #stoneware #clayart](https://www.youtube.com/watch?v=_x2FH4Kft-8)
+- [Before vs. After 😍 #pottery #ceramics #potteryporn #wheelthrowing  #stoneware #clayart](https://www.youtube.com/shorts/_x2FH4Kft-8)
 <!-- YOUTUBE:END -->
 
 ---
