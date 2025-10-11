@@ -29,11 +29,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Arduino Uno Q unboxing &amp; Zephyr RTOS deep dive](https://www.youtube.com/watch?v=1_Ps6Rv7nhM)
 - [Using Zephyr RTOS LLEXT to dynamically load binary GUI elements](https://www.youtube.com/watch?v=RZ3aFNmvcU0)
 - [Enabling CodeChecker for your Zephyr RTOS Project](https://www.youtube.com/watch?v=OCq9wKoezVk)
 - [Getting started with Zephyr RTOS on the MXChip IoT DevKit](https://www.youtube.com/watch?v=GiDsMlRipJY)
 - [Zephyr RTOS commit history visualized using gource.io](https://www.youtube.com/watch?v=RssqANuHp9c)
-- [Before vs. After 😍 #pottery #ceramics #potteryporn #wheelthrowing  #stoneware #clayart](https://www.youtube.com/shorts/_x2FH4Kft-8)
 <!-- YOUTUBE:END -->
 
 ---
